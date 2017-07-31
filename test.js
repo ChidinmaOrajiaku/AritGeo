@@ -1,5 +1,5 @@
 const assert = require('chai').assert
-const myApp = require('../src/main.js');
+const myApp = require('main.js');
 
 
 describe("Determine number progression",function(){
