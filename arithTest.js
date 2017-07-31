@@ -18,3 +18,4 @@ describe("Determine number progression",function(){
       });
 
    });
+});
